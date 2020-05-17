@@ -23,8 +23,7 @@
                                 <div class="card-body">
                                     <h5 class="card-title">Respirador</h5>
                                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                    <a href="/epis" class="btn btn-success">Doar</a>
-                                    <button data-toggle="modal" data-target="#myModal" class="btn btn-primary">Saber mais...</button>
+                                    <button data-toggle="modal" data-target="#myModal" class="btn btn-success">Doar</button>
                                     <br>
                                     <br>
                                     <div class="progress">
@@ -37,7 +36,7 @@
                                     </span>
 
                                     <span class="txt-gray arrecadado-txt" style="margin-left:10px;">
-                                        <strong>88</strong>%
+                                        <strong>25</strong>%
                                         <br>
                                         da meta
                                     </span>
@@ -55,8 +54,7 @@
                                 <div class="card-body">
                                     <h5 class="card-title">Respirador</h5>
                                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                    <a href="/epis" class="btn btn-success">Doar</a>
-                                    <button data-toggle="modal" data-target="#myModal" class="btn btn-primary">Saber mais...</button>
+                                    <button data-toggle="modal" data-target="#myModal" class="btn btn-success">Doar</button>
                                     <br>
                                     <br>
                                     <div class="progress">
@@ -69,7 +67,7 @@
                                     </span>
 
                                     <span class="txt-gray arrecadado-txt" style="margin-left:10px;">
-                                        <strong>88</strong>%
+                                        <strong>25</strong>%
                                         <br>
                                         da meta
                                     </span>
@@ -87,8 +85,7 @@
                                 <div class="card-body">
                                     <h5 class="card-title">Respirador</h5>
                                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                    <a href="/epis" class="btn btn-success">Doar</a>
-                                    <button data-toggle="modal" data-target="#myModal" class="btn btn-primary">Saber mais...</button>
+                                    <button data-toggle="modal" data-target="#myModal" class="btn btn-success">Doar</button>
                                     <br>
                                     <br>
                                     <div class="progress">
@@ -101,7 +98,7 @@
                                     </span>
 
                                     <span class="txt-gray arrecadado-txt" style="margin-left:10px;">
-                                        <strong>88</strong>%
+                                        <strong>25</strong>%
                                         <br>
                                         da meta
                                     </span>
