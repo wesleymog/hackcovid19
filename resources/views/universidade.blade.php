@@ -16,7 +16,7 @@
                     <div class="row">
                         <div class="col-md-3">
                             <div class="card" style="width: 18rem;">
-                                <img class="card-img-top" src="https://lh3.googleusercontent.com/proxy/O4Wy6tiIFtPQ6Gj0gex5rF1aUuxjJHZc_s3kvtjfRMEi4zRr_BNWqkKitMzRqryTEAIppfP2DIDaUgeR6yQSPRx4uh-2JBcF50_wdMM7OJ66" alt="Card image cap">
+                                <img class="card-img-top" src="/unnamed.png" alt="Card image cap">
                                 <div class="card-body">
                                     <h5 class="card-title">UFRJ</h5>
                                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
