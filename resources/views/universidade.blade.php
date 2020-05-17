@@ -19,7 +19,7 @@
                                 <img class="card-img-top" src="/unnamed.png" alt="Card image cap">
                                 <div class="card-body">
                                     <h5 class="card-title">UFRJ</h5>
-                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <p class="card-text">Universidade Federal do Rio de Janeiro: a universidade está desenvolvendo um novo teste para detectar anticorpos em pessoas com suspeita de COVID-19 de forma mais simples, rápida e barata que o teste de PCR (Reação em Cadeia da Polimerase), que vem sendo aplicado no momento. Para isto necessita de R$ 5.0000.000,00.</p>
                                     <a href="/epis" class="btn btn-success">Doar</a>
                                     <button data-toggle="modal" data-target="#myModal" class="btn btn-primary">Saber mais...</a>
                                 </div>

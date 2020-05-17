@@ -17,7 +17,7 @@
                     <div class="row">
                         <div class="col-md-3">
                             <div class="card" style="width: 18rem;">
-                                <img class="card-img-top" src="https://ogimg.infoglobo.com.br/in/21422542-cb7-e25/FT1086A/652/xhospital-de-bonsucesso.jpg.pagespeed.ic.ULkY4cXecM.jpg" alt="Card image cap">
+                                <img class="card-img-top" src="/assets/img/Hospital São Paulo.jpg" alt="Card image cap">
                                 <div class="card-body">
                                     <h5 class="card-title">Hospital de São Paulo</h5>
                                     <p class="card-text">Os médicos, enfermeiros e profissionais da saúde da SPDM estão na linha de frente do combate ao vírus e necessitam de materiais e equipamentos para garantir sua proteção e o atendimento às vítimas da pandemia de COVID-19.</p>
@@ -29,7 +29,7 @@
                         <div class="col-md-1"></div>
                         <div class="col-md-3">
                             <div class="card" style="width: 18rem;">
-                                <img class="card-img-top" src="https://ogimg.infoglobo.com.br/in/21422542-cb7-e25/FT1086A/652/xhospital-de-bonsucesso.jpg.pagespeed.ic.ULkY4cXecM.jpg" alt="Card image cap">
+                                <img class="card-img-top" src="/assets/img/Hospital das Clínicas.jpg" alt="Card image cap">
                                 <div class="card-body">
                                     <h5 class="card-title">Hospital das Clínicas</h5>
                                     <p class="card-text">O Hospital das Clínicas da Faculdade de Medicina de São Paulo está na linha de frente do combate ao avanço da pandemia. Por isso criou o Movimento #VemPraGuerra, um canal de doações para apoiar o HC na luta mais importante da sua história.</p>
@@ -42,7 +42,7 @@
                         <div class="col-md-1"></div>
                         <div class="col-md-3">
                             <div class="card" style="width: 18rem;">
-                                <img class="card-img-top" src="https://ogimg.infoglobo.com.br/in/21422542-cb7-e25/FT1086A/652/xhospital-de-bonsucesso.jpg.pagespeed.ic.ULkY4cXecM.jpg" alt="Card image cap">
+                                <img class="card-img-top" src="/assets/img/28 de Agosto.png" alt="Card image cap">
                                 <div class="card-body">
                                     <h5 class="card-title">Hospital 28 de agosto</h5>
                                     <p class="card-text">em Manaus: O Hospital está sem os materiais necessários para atender os pacientes da covid-19 internados nos leitos de UTI (Unidade de Terapia Intensiva). Os índices de ocupação desse tipo de leito na cidade superam os 95%.</p>

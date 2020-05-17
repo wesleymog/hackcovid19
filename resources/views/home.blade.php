@@ -132,8 +132,17 @@ The above copyright notice and this permission notice shall be included in all c
                 <div class="icon icon-info">
                   <i class="material-icons">chat</i>
                 </div>
-                <h4 class="info-title">Free Chat</h4>
-                <p>Divide details about your product or agency work into parts. Write a few lines about each one. A paragraph describing a feature will be enough.</p>
+                <h4 class="info-title">Conectamos</h4>
+                <p>Através da nossa plataforma possibilitamos um contato entre investidores e universidades, além de conectarmos universidades com hospitais!</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="info">
+                <div class="icon ">
+                  <i class="material-icons">face</i>
+                </div>
+                <h4 class="info-title">Investimento em mãos certas</h4>
+                <p>Você consegue saber aonde está sendo investido o seu dinheiro e direcionando de maneira efetiva</p>
               </div>
             </div>
             <div class="col-md-4">
@@ -141,39 +150,29 @@ The above copyright notice and this permission notice shall be included in all c
                 <div class="icon icon-success">
                   <i class="material-icons">verified_user</i>
                 </div>
-                <h4 class="info-title">Verified Users</h4>
-                <p>Divide details about your product or agency work into parts. Write a few lines about each one. A paragraph describing a feature will be enough.</p>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="info">
-                <div class="icon icon-danger">
-                  <i class="material-icons">fingerprint</i>
-                </div>
-                <h4 class="info-title">Fingerprint</h4>
-                <p>Divide details about your product or agency work into parts. Write a few lines about each one. A paragraph describing a feature will be enough.</p>
+                <h4 class="info-title">Membros verificados</h4>
+                <p>Somente membros de universidades confirmadas pelo seu número de registro</p>
               </div>
             </div>
           </div>
         </div>
       </div>
       <div class="section text-center">
-        <h2 class="title">Here is our team</h2>
+        <h2 class="title">Nosso Time</h2>
         <div class="team">
           <div class="row">
             <div class="col-md-4">
               <div class="team-player">
                 <div class="card card-plain">
                   <div class="col-md-6 ml-auto mr-auto">
-                    <img src="assets/img/faces/avatar.jpg" alt="Thumbnail Image" class="img-raised rounded-circle img-fluid">
+                    <img src="assets/img/perfil2.jpg" alt="Thumbnail Image" class="img-raised rounded-circle img-fluid">
                   </div>
-                  <h4 class="card-title">Gigi Hadid
+                  <h4 class="card-title">Quézia Dias
                     <br>
-                    <small class="card-description text-muted">Model</small>
+                    <small class="card-description text-muted">Designer</small>
                   </h4>
                   <div class="card-body">
-                    <p class="card-description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some
-                      <a href="#">links</a> for people to be able to follow them outside the site.</p>
+                    <p class="card-description"></p>
                   </div>
                   <div class="card-footer justify-content-center">
                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-twitter"></i></a>
@@ -187,15 +186,14 @@ The above copyright notice and this permission notice shall be included in all c
               <div class="team-player">
                 <div class="card card-plain">
                   <div class="col-md-6 ml-auto mr-auto">
-                    <img src="assets/img/faces/christian.jpg" alt="Thumbnail Image" class="img-raised rounded-circle img-fluid">
+                    <img src="assets/img/perfil.jpg" alt="Thumbnail Image" class="img-raised rounded-circle img-fluid">
                   </div>
-                  <h4 class="card-title">Christian Louboutin
+                  <h4 class="card-title">Wesley Mota
                     <br>
-                    <small class="card-description text-muted">Designer</small>
+                    <small class="card-description text-muted">Programador</small>
                   </h4>
                   <div class="card-body">
-                    <p class="card-description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some
-                      <a href="#">links</a> for people to be able to follow them outside the site.</p>
+                    <p class="card-description"></p>
                   </div>
                   <div class="card-footer justify-content-center">
                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-twitter"></i></a>
@@ -208,15 +206,79 @@ The above copyright notice and this permission notice shall be included in all c
               <div class="team-player">
                 <div class="card card-plain">
                   <div class="col-md-6 ml-auto mr-auto">
-                    <img src="assets/img/faces/kendall.jpg" alt="Thumbnail Image" class="img-raised rounded-circle img-fluid">
+                    <img src="assets/img/perfil1.jpg" alt="Thumbnail Image" class="img-raised rounded-circle img-fluid">
                   </div>
-                  <h4 class="card-title">Kendall Jenner
+                  <h4 class="card-title">Karla Pereira
                     <br>
                     <small class="card-description text-muted">Model</small>
                   </h4>
                   <div class="card-body">
-                    <p class="card-description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some
-                      <a href="#">links</a> for people to be able to follow them outside the site.</p>
+                    <p class="card-description"></p>
+                  </div>
+                  <div class="card-footer justify-content-center">
+                    <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-twitter"></i></a>
+                    <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-instagram"></i></a>
+                    <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-facebook-square"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-md-4">
+              <div class="team-player">
+                <div class="card card-plain">
+                  <div class="col-md-6 ml-auto mr-auto">
+                    <img src="assets/img/perfil4.jpg" alt="Thumbnail Image" class="img-raised rounded-circle img-fluid">
+                  </div>
+                  <h4 class="card-title">Roberta Araújo
+                    <br>
+                    <small class="card-description text-muted">Business</small>
+                  </h4>
+                  <div class="card-body">
+                    <p class="card-description"></p>
+                  </div>
+                  <div class="card-footer justify-content-center">
+                    <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-twitter"></i></a>
+                    <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-instagram"></i></a>
+                    <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-facebook-square"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="team-player">
+                <div class="card card-plain">
+                  <div class="col-md-6 ml-auto mr-auto">
+                    <img src="assets/img/perfil6.jpg" alt="Thumbnail Image" class="img-raised rounded-circle img-fluid">
+                  </div>
+                  <h4 class="card-title">Marcela Noemi
+                    <br>
+                    <small class="card-description text-muted">Designer</small>
+                  </h4>
+                  <div class="card-body">
+                    <p class="card-description"></p>
+                  </div>
+                  <div class="card-footer justify-content-center">
+                    <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-twitter"></i></a>
+                    <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="team-player">
+                <div class="card card-plain">
+                  <div class="col-md-6 ml-auto mr-auto">
+                    <img src="assets/img/perfil3.jpg" alt="Thumbnail Image" class="img-raised rounded-circle img-fluid">
+                  </div>
+                  <h4 class="card-title">Lucas dos Santos
+                    <br>
+                    <small class="card-description text-muted">Programador</small>
+                  </h4>
+                  <div class="card-body">
+                    <p class="card-description"></p>
                   </div>
                   <div class="card-footer justify-content-center">
                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-twitter"></i></a>
@@ -232,25 +294,25 @@ The above copyright notice and this permission notice shall be included in all c
       <div class="section section-contacts">
         <div class="row">
           <div class="col-md-8 ml-auto mr-auto">
-            <h2 class="text-center title">Work with us</h2>
-            <h4 class="text-center description">Divide details about your product or agency work into parts. Write a few lines about each one and contact us about any further collaboration. We will responde get back to you in a couple of hours.</h4>
+            <h2 class="text-center title">Contate-nos</h2>
+            <h4 class="text-center description">Precisa de alguma ajuda?</h4>
             <form class="contact-form">
               <div class="row">
                 <div class="col-md-6">
                   <div class="form-group">
-                    <label class="bmd-label-floating">Your Name</label>
+                    <label class="bmd-label-floating">Nome</label>
                     <input type="email" class="form-control">
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="form-group">
-                    <label class="bmd-label-floating">Your Email</label>
+                    <label class="bmd-label-floating">Email</label>
                     <input type="email" class="form-control">
                   </div>
                 </div>
               </div>
               <div class="form-group">
-                <label for="exampleMessage" class="bmd-label-floating">Your Message</label>
+                <label for="exampleMessage" class="bmd-label-floating">Sua mensagem</label>
                 <textarea type="email" class="form-control" rows="4" id="exampleMessage"></textarea>
               </div>
               <div class="row">
@@ -268,36 +330,8 @@ The above copyright notice and this permission notice shall be included in all c
   </div>
   <footer class="footer footer-default">
     <div class="container">
-      <nav class="float-left">
-        <ul>
-          <li>
-            <a href="https://www.creative-tim.com/">
-              Creative Tim
-            </a>
-          </li>
-          <li>
-            <a href="https://www.creative-tim.com/presentation">
-              About Us
-            </a>
-          </li>
-          <li>
-            <a href="https://www.creative-tim.com/blog">
-              Blog
-            </a>
-          </li>
-          <li>
-            <a href="https://www.creative-tim.com/license">
-              Licenses
-            </a>
-          </li>
-        </ul>
-      </nav>
       <div class="copyright float-right">
-        &copy;
-        <script>
-          document.write(new Date().getFullYear())
-        </script>, made with <i class="material-icons">favorite</i> by
-        <a href="https://www.creative-tim.com/" target="_blank">Creative Tim</a> for a better web.
+        2020 ConectaVid
       </div>
     </div>
   </footer>
