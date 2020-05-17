@@ -75,11 +75,11 @@
                         </div>
 
                         <div class="d-flex justify-content-end">
-                            <a href="#" class="btn btn-warning"><i class="fa fa-angle-left"></i> Continue Shopping</a>
+                            <a href="#" class="btn btn-warning"><i class="fa fa-angle-left"></i> Continuar ajudando</a>
                         </div>
                         <br>
                         <div class="d-flex justify-content-end">
-                            <a href="#" class="btn btn-success">Checkout <i class="fa fa-angle-right"></i></a>                       
+                            <a href="#" class="btn btn-success">Doar <i class="fa fa-angle-right"></i></a>                       
                         </div>
                     </div>
                 </div>
@@ -93,7 +93,7 @@ $(function(){
                var value1 = parseFloat($('#value1').val()) || 0;
                var value2 = parseFloat($('#value2').val()) || 0;
                var value3 = parseFloat($('#value3').val()) || 0;
-               $('#sum').val(value1 + value2+ value3);
+               $('#sum').val(25*(value1 + value2+ value3));
             });
          });
 </script>

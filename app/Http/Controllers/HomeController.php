@@ -24,6 +24,6 @@ class HomeController extends Controller
         return view('hospitais');
     }
     public function materiais(){
-        return view('materiais');
+        return view('epis');
     }
 }
