@@ -30,5 +30,8 @@ class HomeController extends Controller
     public function epis(){
         return view('epis');
     }
+    public function home(){
+        return view('home');
+    }
     
 }
