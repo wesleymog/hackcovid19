@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-12">
             <div class="card">
-                <div class="card-header">Materiais</div>
+                <div class="card-header">EPIs</div>
 
                 <div class="card-body">
                     @if (session('status'))
@@ -75,7 +75,7 @@
                         </div>
 
                         <div class="d-flex justify-content-end">
-                            <a href="#" class="btn btn-warning"><i class="fa fa-angle-left"></i> Continuar ajudando</a>
+                            <a href="/hospitais" class="btn btn-warning"><i class="fa fa-angle-left"></i> Continuar ajudando</a>
                         </div>
                         <br>
                         <div class="d-flex justify-content-end">

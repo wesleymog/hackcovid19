@@ -33,7 +33,7 @@
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">UFMG</h5>
-                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <p class="card-text">pesquisadores da UFMG buscam 1,6 milhão em doações para desenvolver teste rápido da covid. A expectativa é que um milhão de testes por meses seriam possíveis , caso a pesquisa receba investimentos.</p>
                                     <a href="/epis" class="btn btn-success">Doar</a>
                                     <button data-toggle="modal" data-target="#myModal" class="btn btn-primary">Saber mais...</button>
                                     
@@ -48,8 +48,8 @@
                                     <img class="card-img-top align-self-center" src="https://www.ufpr.br/portalufpr/wp-content/uploads/2015/11/ufpr_alta.jpg" alt="Card image cap">
                                 </div>
                                 <div class="card-body">
-                                    <h5 class="card-title">UFPR</h5>
-                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <h5 class="card-title">USP</h5>
+                                    <p class="card-text">: as pesquisas desenvolvidas pela instituição são no desenvolvimento de vacina e novos fármacos, ações diagnósticas, material de proteção para pacientes e profissionais de saúde e desenvolvimento de equipamentos.</p>
                                     <a href="/epis" class="btn btn-success">Doar</a>
                                     <button data-toggle="modal" data-target="#myModal" class="btn btn-primary">Saber mais...</a>
                                 </div>
