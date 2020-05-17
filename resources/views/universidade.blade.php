@@ -20,7 +20,7 @@
                                 <div class="card-body">
                                     <h5 class="card-title">UFRJ</h5>
                                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                    <a href="/materiais" class="btn btn-success">Doar</a>
+                                    <a href="/epis" class="btn btn-success">Doar</a>
                                     <button data-toggle="modal" data-target="#myModal" class="btn btn-primary">Saber mais...</a>
                                 </div>
                             </div>
@@ -34,8 +34,9 @@
                                 <div class="card-body">
                                     <h5 class="card-title">UFMG</h5>
                                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                    <a href="/materiais" class="btn btn-success">Doar</a>
-                                    <button data-toggle="modal" data-target="#myModal" class="btn btn-primary">Saber mais...</a>
+                                    <a href="/epis" class="btn btn-success">Doar</a>
+                                    <button data-toggle="modal" data-target="#myModal" class="btn btn-primary">Saber mais...</button>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -49,7 +50,7 @@
                                 <div class="card-body">
                                     <h5 class="card-title">UFPR</h5>
                                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                    <a href="/materiais" class="btn btn-success">Doar</a>
+                                    <a href="/epis" class="btn btn-success">Doar</a>
                                     <button data-toggle="modal" data-target="#myModal" class="btn btn-primary">Saber mais...</a>
                                 </div>
                             </div>

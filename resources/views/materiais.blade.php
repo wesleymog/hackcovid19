@@ -14,87 +14,107 @@
                         </div>
                     @endif
                     <div class="container">
-                        <div class="row">
-                            <div class="col-md-2"><img class="img-responsive" src="http://placehold.it/100x100">
-                            </div>
-                            <div class="col-md-5">
-                                <p><strong>Material 1</strong></><p>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti voluptates blanditiis dolorem expedita! Maiores laudantium, sunt, magni assumenda laborum possimus hic ipsa aut, dicta voluptatibus eius? Fugit impedit in nobis?</p>
-                            </div>
-                            <div class="col-md-3">
-                                <br>
-                                <input type="text" id="value1"></input>
-                            </div>
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="card" style="width: 18rem;">
+                                <div style="height: 12xs;" class= "">
+                                    <img class="card-img-top align-self-center" src="https://dummyimage.com/600x400/55595c/fff" alt="Card image cap">
+                                </div>
+                                <div class="card-body">
+                                    <h5 class="card-title">Respirador</h5>
+                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <a href="/epis" class="btn btn-success">Doar</a>
+                                    <button data-toggle="modal" data-target="#myModal" class="btn btn-primary">Saber mais...</button>
+                                    <br>
+                                    <br>
+                                    <div class="progress">
+                                        <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+                                    </div>
+                                </div>
+                                <div class="card-footer">
+                                    <span class="txt-gray arrecadado-txt">
+                                            R$ <strong>21.916.595</strong><br>arrecadado
+                                    </span>
 
-                            <div class="col-md-2">
-                                <br>
-                                <p>R$ 25,00</p>
-                            </div>
+                                    <span class="txt-gray arrecadado-txt" style="margin-left:10px;">
+                                        <strong>88</strong>%
+                                        <br>
+                                        da meta
+                                    </span>
 
-                        </div>
-                        <hr>
-                        <div class="row">
-                            <div class="col-md-2"><img class="img-responsive" src="http://placehold.it/100x100">
+                                </div>
                             </div>
-                            <div class="col-md-5">
-                                <p><strong>Material 1</strong></><p>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti voluptates blanditiis dolorem expedita! Maiores laudantium, sunt, magni assumenda laborum possimus hic ipsa aut, dicta voluptatibus eius? Fugit impedit in nobis?</p>
-                            </div>
-                            <div class="col-md-3">
-                                <br>
-                                <input type="text" id="value2"></input>
-                            </div>
-
-                            <div class="col-md-2">
-                                <br>
-                                <p>R$ 25,00</p>
-                            </div>
-
-                        </div>
-                        <hr>
-                        <div class="row">
-                            <div class="col-md-2"><img class="img-responsive" src="http://placehold.it/100x100">
-                            </div>
-                            <div class="col-md-5">
-                                <p><strong>Material 1</strong></><p>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti voluptates blanditiis dolorem expedita! Maiores laudantium, sunt, magni assumenda laborum possimus hic ipsa aut, dicta voluptatibus eius? Fugit impedit in nobis?</p>
-                            </div>
-                            <div class="col-md-3">
-                                <br>
-                                <input type="text" id="value3"></input>
-                            </div>
-
-                            <div class="col-md-2">
-                                <br>
-                                <p>R$ 25,00</p>
-                            </div>
-
-                        </div>
-                        <div class="d-flex justify-content-center">
-                            <div class="p-6"><strong><label for="sum">Total:</label> <input type="number" name="sum" id="sum" class="form-control" readonly /></strong></div>
                         </div>
 
-                        <div class="d-flex justify-content-end">
-                            <a href="#" class="btn btn-warning"><i class="fa fa-angle-left"></i> Continue Shopping</a>
+                        <div class="col-md-1"></div>
+                        <div class="col-md-3">
+                            <div class="card" style="width: 18rem;">
+                                <div style="height: 12xs;" class= "">
+                                    <img class="card-img-top align-self-center" src="https://dummyimage.com/600x400/55595c/fff" alt="Card image cap">
+                                </div>
+                                <div class="card-body">
+                                    <h5 class="card-title">Respirador</h5>
+                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <a href="/epis" class="btn btn-success">Doar</a>
+                                    <button data-toggle="modal" data-target="#myModal" class="btn btn-primary">Saber mais...</button>
+                                    <br>
+                                    <br>
+                                    <div class="progress">
+                                        <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+                                    </div>
+                                </div>
+                                <div class="card-footer">
+                                    <span class="txt-gray arrecadado-txt">
+                                            R$ <strong>21.916.595</strong><br>arrecadado
+                                    </span>
+
+                                    <span class="txt-gray arrecadado-txt" style="margin-left:10px;">
+                                        <strong>88</strong>%
+                                        <br>
+                                        da meta
+                                    </span>
+
+                                </div>
+                            </div>
                         </div>
-                        <br>
-                        <div class="d-flex justify-content-end">
-                            <a href="#" class="btn btn-success">Checkout <i class="fa fa-angle-right"></i></a>                       
+
+                        <div class="col-md-1"></div>
+                        <div class="col-md-3">
+                            <div class="card" style="width: 18rem;">
+                                <div style="height: 12xs;" class= "">
+                                    <img class="card-img-top align-self-center" src="https://dummyimage.com/600x400/55595c/fff" alt="Card image cap">
+                                </div>
+                                <div class="card-body">
+                                    <h5 class="card-title">Respirador</h5>
+                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <a href="/epis" class="btn btn-success">Doar</a>
+                                    <button data-toggle="modal" data-target="#myModal" class="btn btn-primary">Saber mais...</button>
+                                    <br>
+                                    <br>
+                                    <div class="progress">
+                                        <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+                                    </div>
+                                </div>
+                                <div class="card-footer">
+                                    <span class="txt-gray arrecadado-txt">
+                                            R$ <strong>21.916.595</strong><br>arrecadado
+                                    </span>
+
+                                    <span class="txt-gray arrecadado-txt" style="margin-left:10px;">
+                                        <strong>88</strong>%
+                                        <br>
+                                        da meta
+                                    </span>
+
+                                </div>
+                            </div>
                         </div>
+
+                    </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<script>
-$(function(){
-            $('#value1, #value2, #value3').keyup(function(){
-               var value1 = parseFloat($('#value1').val()) || 0;
-               var value2 = parseFloat($('#value2').val()) || 0;
-               var value3 = parseFloat($('#value3').val()) || 0;
-               $('#sum').val(value1 + value2+ value3);
-            });
-         });
-</script>
 @endsection
