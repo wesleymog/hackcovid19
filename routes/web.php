@@ -16,3 +16,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@universidades')->name('universidades');
+Route::get('/hospitais', 'HomeController@hospitais')->name('hospitais');
+Route::get('/materiais', 'HomeController@materiais')->name('hospitais');
