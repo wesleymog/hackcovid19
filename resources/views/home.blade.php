@@ -122,7 +122,10 @@ The above copyright notice and this permission notice shall be included in all c
         <div class="row">
           <div class="col-md-8 ml-auto mr-auto">
             <h2 class="title">Como fazemos isso?</h2>
-            <h5 class="description">This is the paragraph where you can write more details about your product. Keep you user engaged by providing meaningful information. Remember that by this time, the user is curious, otherwise he wouldn&apos;t scroll to get here. Add a button if you want the user to see more.</h5>
+            <h5 class="description">
+              Esse portal facilita os direcionamentos das doações, agora tudo pode ser feito em uma única plataforma.
+              Aproxima as instituições de seus investidores e norteia bem para onde a doação está indo. Nesse portal as demandas dos hospitais são visíveis. 
+            </h5>
           </div>
         </div>
         <div class="features">

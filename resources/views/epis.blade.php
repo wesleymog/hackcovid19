@@ -15,11 +15,11 @@
                     @endif
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-2"><img class="img-responsive" src="http://placehold.it/100x100">
+                            <div class="col-md-2"><img class="img-responsive" style="width:100px; height: 100px" src="/assets/img/Material 1.jpg">
                             </div>
                             <div class="col-md-5">
-                                <p><strong>Material 1</strong></><p>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti voluptates blanditiis dolorem expedita! Maiores laudantium, sunt, magni assumenda laborum possimus hic ipsa aut, dicta voluptatibus eius? Fugit impedit in nobis?</p>
+                                <p><strong>Protetor Facial Com Suspensão Simples Incolor 6" Dystray</strong></><p>
+                                <p>Necessitamos imediatamente.</p>
                             </div>
                             <div class="col-md-3">
                                 <br>
@@ -34,11 +34,11 @@
                         </div>
                         <hr>
                         <div class="row">
-                            <div class="col-md-2"><img class="img-responsive" src="http://placehold.it/100x100">
+                            <div class="col-md-2"><img class="img-responsive" style="width:100px; height: 100px" src="/assets/img/Material 2.png">
                             </div>
                             <div class="col-md-5">
-                                <p><strong>Material 1</strong></><p>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti voluptates blanditiis dolorem expedita! Maiores laudantium, sunt, magni assumenda laborum possimus hic ipsa aut, dicta voluptatibus eius? Fugit impedit in nobis?</p>
+                                <p><strong>Respirador descartável</strong></><p>
+                                <p>Necessitamos imediatamente.</p>
                             </div>
                             <div class="col-md-3">
                                 <br>
@@ -53,11 +53,11 @@
                         </div>
                         <hr>
                         <div class="row">
-                            <div class="col-md-2"><img class="img-responsive" src="http://placehold.it/100x100">
+                            <div class="col-md-2"><img class="img-responsive" style="width:100px; height: 100px" src="/assets/img/Material 3.jpg">
                             </div>
                             <div class="col-md-5">
-                                <p><strong>Material 1</strong></><p>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti voluptates blanditiis dolorem expedita! Maiores laudantium, sunt, magni assumenda laborum possimus hic ipsa aut, dicta voluptatibus eius? Fugit impedit in nobis?</p>
+                                <p><strong>Ventilador pulmonar mecânico</strong></><p>
+                                <p>Necessitamos imediatamente.</p>                            
                             </div>
                             <div class="col-md-3">
                                 <br>
